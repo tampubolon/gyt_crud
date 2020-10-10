@@ -1,2 +1,2 @@
 # gyt_crud
-CRUD program to Create Read Update Delete data to media (master) in gyt project
+CRUD program to Create Read Update Delete data to db of media (master) server in gyt project
